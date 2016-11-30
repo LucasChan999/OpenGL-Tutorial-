@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp_OpenGl Chap 3.2", "Cpp_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp_OpenGl Chap 5.12", "Cpp_OpenGl Chap 5.12\Cpp_OpenGl Chap 5.12.vcxproj", "{E7240210-BE1A-45FD-9834-3069ADDCF74B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp_OpenGl Liang Barskey", "Cpp_OpenGl Liang Barskey\Cpp_OpenGl Liang Barskey.vcxproj", "{103DF336-92BC-4150-B442-54155B02EF3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{E7240210-BE1A-45FD-9834-3069ADDCF74B}.Release|x64.Build.0 = Release|x64
 		{E7240210-BE1A-45FD-9834-3069ADDCF74B}.Release|x86.ActiveCfg = Release|Win32
 		{E7240210-BE1A-45FD-9834-3069ADDCF74B}.Release|x86.Build.0 = Release|Win32
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Debug|x64.ActiveCfg = Debug|x64
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Debug|x64.Build.0 = Debug|x64
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Debug|x86.Build.0 = Debug|Win32
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Release|x64.ActiveCfg = Release|x64
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Release|x64.Build.0 = Release|x64
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Release|x86.ActiveCfg = Release|Win32
+		{103DF336-92BC-4150-B442-54155B02EF3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

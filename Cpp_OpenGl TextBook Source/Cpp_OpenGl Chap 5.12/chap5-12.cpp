@@ -46,6 +46,7 @@ void Displayw(void)
     glFlush();
 }
 
+
 void main(void)
 {
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB); 
